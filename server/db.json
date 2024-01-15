@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "img": "/flashlight.jpeg",
+      "price": "5",
+      "title": "UltraBeam 3000 - High-Intensity Tactical Flashlight",
+      "description": "Unleash the power of light with the UltraBeam 3000 Tactical Flashlight, your indispensable companion for all adventures. Engineered for durability and performance, this flashlight boasts a robust aircraft-grade aluminum body that withstands rugged use. Featuring an advanced LED technology, it illuminates your path with an impressive 1000-lumen beam that reaches up to 500 meters. With its adjustable focus, five lighting modes (high, medium, low, strobe, and SOS), and a long-lasting rechargeable battery, the UltraBeam 3000 is perfect for camping, hiking, emergency situations, and home use. Compact yet powerful, it's the flashlight you can always count on.",
+      "id": "1",
+      "cart": "1"
+    },
+    {
+      "description": "Showcase your cherished memories in style with the Memories Elegance Wooden Photo Frame. This exquisitely crafted frame features a classic, timeless design with a sleek black finish that complements any home decor. Made from premium-quality wood with a crystal-clear glass front, it protects and beautifully displays your favorite 8x10 inch photograph. The versatile frame can be used either horizontally or vertically and comes equipped with a sturdy stand for tabletop display and hooks for wall mounting. Whether it's a family portrait, a cherished moment, or a piece of art, the Memories Elegance Photo Frame turns your photo into a focal point of elegance and warmth.",
+      "img": "/frame.jpeg",
+      "price": "15.56",
+      "title": "Photo Frame",
+      "id": "2",
+      "cart": "0"
+    },
+    {
+      "description": "Experience unmatched security with the SecureMax Advanced Padlock, designed to offer superior protection for your valuables. Crafted from hardened steel, this padlock is virtually indestructible, resisting cutting, sawing, and prying attempts. The lock features a state-of-the-art disc cylinder mechanism that provides exceptional pick and drill resistance, ensuring your belongings are safe and secure. Suitable for both indoor and outdoor use, its weatherproof design guards against rust and corrosion. The SecureMax padlock comes with a set of four keys and is ideal for securing gates, sheds, storage units, bikes, and more. Trust SecureMax to safeguard what matters most to you.",
+      "img": "/lock.jpeg",
+      "price": "9.99",
+      "title": "Lock",
+      "id": "3",
+      "cart": "0"
+    },
+    {
+      "img": "/flashlight.jpeg",
+      "price": "5",
+      "title": "UltraBeam 3000 - High-Intensity Tactical Flashlight",
+      "description": "Unleash the power of light with the UltraBeam 3000 Tactical Flashlight, your indispensable companion for all adventures. Engineered for durability and performance, this flashlight boasts a robust aircraft-grade aluminum body that withstands rugged use. Featuring an advanced LED technology, it illuminates your path with an impressive 1000-lumen beam that reaches up to 500 meters. With its adjustable focus, five lighting modes (high, medium, low, strobe, and SOS), and a long-lasting rechargeable battery, the UltraBeam 3000 is perfect for camping, hiking, emergency situations, and home use. Compact yet powerful, it's the flashlight you can always count on.",
+      "id": "4",
+      "cart": "0"
+    },
+    {
+      "description": "Showcase your cherished memories in style with the Memories Elegance Wooden Photo Frame. This exquisitely crafted frame features a classic, timeless design with a sleek black finish that complements any home decor. Made from premium-quality wood with a crystal-clear glass front, it protects and beautifully displays your favorite 8x10 inch photograph. The versatile frame can be used either horizontally or vertically and comes equipped with a sturdy stand for tabletop display and hooks for wall mounting. Whether it's a family portrait, a cherished moment, or a piece of art, the Memories Elegance Photo Frame turns your photo into a focal point of elegance and warmth.",
+      "img": "/frame.jpeg",
+      "price": "15.56",
+      "title": "Photo Frame",
+      "id": "5",
+      "cart": "0"
+    },
+    {
+      "description": "Experience unmatched security with the SecureMax Advanced Padlock, designed to offer superior protection for your valuables. Crafted from hardened steel, this padlock is virtually indestructible, resisting cutting, sawing, and prying attempts. The lock features a state-of-the-art disc cylinder mechanism that provides exceptional pick and drill resistance, ensuring your belongings are safe and secure. Suitable for both indoor and outdoor use, its weatherproof design guards against rust and corrosion. The SecureMax padlock comes with a set of four keys and is ideal for securing gates, sheds, storage units, bikes, and more. Trust SecureMax to safeguard what matters most to you.",
+      "img": "/lock.jpeg",
+      "price": "9.99",
+      "title": "Lock",
+      "id": "6",
+      "cart": "0"
+    },
+    {
+      "img": "/flashlight.jpeg",
+      "price": "5",
+      "title": "UltraBeam 3000 - High-Intensity Tactical Flashlight",
+      "description": "Unleash the power of light with the UltraBeam 3000 Tactical Flashlight, your indispensable companion for all adventures. Engineered for durability and performance, this flashlight boasts a robust aircraft-grade aluminum body that withstands rugged use. Featuring an advanced LED technology, it illuminates your path with an impressive 1000-lumen beam that reaches up to 500 meters. With its adjustable focus, five lighting modes (high, medium, low, strobe, and SOS), and a long-lasting rechargeable battery, the UltraBeam 3000 is perfect for camping, hiking, emergency situations, and home use. Compact yet powerful, it's the flashlight you can always count on.",
+      "id": "7",
+      "cart": "0"
+    },
+    {
+      "description": "Showcase your cherished memories in style with the Memories Elegance Wooden Photo Frame. This exquisitely crafted frame features a classic, timeless design with a sleek black finish that complements any home decor. Made from premium-quality wood with a crystal-clear glass front, it protects and beautifully displays your favorite 8x10 inch photograph. The versatile frame can be used either horizontally or vertically and comes equipped with a sturdy stand for tabletop display and hooks for wall mounting. Whether it's a family portrait, a cherished moment, or a piece of art, the Memories Elegance Photo Frame turns your photo into a focal point of elegance and warmth.",
+      "img": "/frame.jpeg",
+      "price": "15.56",
+      "title": "Photo Frame",
+      "id": "8",
+      "cart": "0"
+    },
+    {
+      "description": "Experience unmatched security with the SecureMax Advanced Padlock, designed to offer superior protection for your valuables. Crafted from hardened steel, this padlock is virtually indestructible, resisting cutting, sawing, and prying attempts. The lock features a state-of-the-art disc cylinder mechanism that provides exceptional pick and drill resistance, ensuring your belongings are safe and secure. Suitable for both indoor and outdoor use, its weatherproof design guards against rust and corrosion. The SecureMax padlock comes with a set of four keys and is ideal for securing gates, sheds, storage units, bikes, and more. Trust SecureMax to safeguard what matters most to you.",
+      "img": "/lock.jpeg",
+      "price": "9.99",
+      "title": "Lock",
+      "id": "9",
+      "cart": "0"
+    }
+  ]
+}
