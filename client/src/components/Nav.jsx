@@ -9,15 +9,18 @@ const Nav = () => {
   return (
     <div className='navbar bg-base-100'>
       <div className='flex-1'>
-        <NavLink to={'/'}>
-          <a className='btn btn-ghost hover:bg-inherit text-xl'>Gifted</a>{' '}
+        <NavLink to={'/'} className='ml-6 mt-10 flex items-center'>
+          <img src='/favicon.svg' alt='gifted logo' className='w-14 h-14' />
+          <span className='btn btn-ghost hover:bg-inherit text-5xl font-normal'>
+            Gifted
+          </span>
         </NavLink>
       </div>
 
       <div className='flex-none'>
         <div className='dropdown dropdown-end'>
           <div tabIndex={0} role='button' className='btn btn-ghost btn-circle'>
-            <div className='indicator'>
+            <div className='indicator duration-1000'>
               <IoCartOutline className='w-6 h-8' />
               {cart.length > 0 && (
                 <span className='badge badge-primary badge-sm indicator-item'>

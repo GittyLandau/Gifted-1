@@ -1,10 +1,8 @@
 // rrd imports
 import { NavLink } from 'react-router-dom';
-import Nav from './nav';
-
 const ItemCard = ({ item }) => {
   return (
-    <div className='card w-64 bg-base-100 shadow-xl'>
+    <div className={`card w-64 bg-base-100 shadow-xl`}>
       <figure className='w-64 h-64'>
         <img src={item.img} alt='Shoes' className='w-full h-full' />
       </figure>

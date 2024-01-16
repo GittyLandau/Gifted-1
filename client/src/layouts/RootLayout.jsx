@@ -1,11 +1,7 @@
 // rrd imports
-import { Outlet, useLoaderData } from 'react-router-dom';
-import { useState } from 'react';
+import { Outlet } from 'react-router-dom';
 // components
 import Nav from '../components/nav';
-
-// pages
-import Dashboard from '../pages/Dashboard';
 
 // library imports
 import axios from 'axios';

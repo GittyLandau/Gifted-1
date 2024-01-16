@@ -5,7 +5,7 @@ const Dashboard = () => {
   return (
     <div className='grid grid-flow-row grid-cols-3 gap-8'>
       {items.map((item) => {
-        return <ItemCard key={item.id} item={item} />;
+        return <ItemCard type='dashboard' key={item.id} item={item} />;
       })}
     </div>
   );

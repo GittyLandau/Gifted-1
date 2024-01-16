@@ -13,6 +13,8 @@ import RootLayout, { rootLayoutLoader } from './layouts/RootLayout';
 import Dashboard from './pages/Dashboard';
 import ItemPage, { ItemPageLoader } from './pages/ItemPage';
 import Cart from './pages/Cart';
+import OrderConfirmation from './pages/OrderConfirmation';
+import ErrorPage from './pages/ErrorPage';
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route>
@@ -24,6 +26,8 @@ const router = createBrowserRouter(
           loader={ItemPageLoader}
         />
         <Route path='/cart' element={<Cart />} loader={rootLayoutLoader} />
+        <Route path='/order-confirmation' element={<OrderConfirmation />} />
+        <Route path='*' element={<ErrorPage />} />
       </Route>
     </Route>
   )
