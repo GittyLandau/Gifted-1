@@ -8,6 +8,7 @@ const { log } = require('console');
 
 app.use(cors());
 app.use(express.json());
+app.use(express.static('../client/dist'));
 
 app.get('/api/items', (req, res) => {
   res.json(db);
@@ -44,7 +45,6 @@ app.delete('/cart/:id', (req, res) => {
   const id = req.params.id;
   db.items.forEach((item) => {
     if (Number(item.id) == Number(id)) {
-      console.log('match');
       item.cart = [];
     }
   });
