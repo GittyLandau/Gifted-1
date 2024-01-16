@@ -8,10 +8,13 @@ const { log } = require('console');
 
 app.use(cors());
 app.use(express.json());
-app.use(express.static('../client/dist'));
+app.use(express.static(path.join(__dirname, '../client/dist')));
 
 app.get('/api/items', (req, res) => {
   res.json(db);
+});
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname + '/../client/dist/index.html'));
 });
 app.get('/api/item/:id', (req, res) => {
   const id = req.params.id;
