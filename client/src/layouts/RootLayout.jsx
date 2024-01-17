@@ -1,8 +1,7 @@
 // rrd imports
 import { Outlet } from 'react-router-dom';
 // components
-import Nav from '../components/nav';
-
+import Nav from '../components/Nav';
 // library imports
 import axios from 'axios';
 
