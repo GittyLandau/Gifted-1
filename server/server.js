@@ -8,7 +8,7 @@ const { log } = require('console');
 
 app.use(cors());
 app.use(express.json());
-app.use(express.static(path.join(__dirname, '../client/dist')));
+app.use(express.static(path.join(__dirname, '..', 'client', 'dist')));
 
 app.get('/api/items', (req, res) => {
   res.json(db);
